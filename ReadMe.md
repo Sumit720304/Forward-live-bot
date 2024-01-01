@@ -33,6 +33,6 @@ All new messages will be auto-posted!!
 
 Visit [@TeamCyphers](https://t.me/TeamCyphers) for help.
 ## Credits
-> [Lonami](https://github.com/Sumit720304), for [Telethon](https://github.com/LonamiWebs/Telethon).   
-> [xditya](https://github.com/Sumit720304), me.   
+> [Sumit](https://github.com/Sumit720304), for [Telethon](https://github.com/LonamiWebs/Telethon).   
+> [Sumit](https://github.com/Sumit720304), me.   
 > [@ettan_fan](https://t.me/ettan_fan), for the whole idea.   
